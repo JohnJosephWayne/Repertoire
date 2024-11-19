@@ -6,6 +6,7 @@ import lombok.*;
 @Setter
 public class Contact {
 
+    public int id;
     public static String lastname;
     public static String firstname;
 
